@@ -1,4 +1,4 @@
-Hi 👋 I'm Tadhg Coffey, a versatile Frontend Developer based in San Francisco. I spent the past 8 years at Rocket Lawyer on the Acuisition Team, building, maintaining and updating https://www.rocketlawyer.com.
+Hi 👋 I'm Tadhg Coffey, a versatile Frontend Developer based in San Francisco. I spent the past 8 years at Rocket Lawyer on the Marketing and Customer Acquisition Teams, building, maintaining and updating https://www.rocketlawyer.com.
 
 I have a background in architecture, design and product management; and thrive in positions that are technical, creative and encourage cross-team collaboration.
 
